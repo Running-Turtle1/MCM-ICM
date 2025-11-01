@@ -1,4 +1,6 @@
-# 2004-2023美赛O奖论文
+# 2004-2025年 美赛O奖论文
+
+比赛官网：https://www.contest.comap.com/undergraduate/contests/
 
 ## Contributers
 
