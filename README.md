@@ -6,7 +6,7 @@
 - [HoniiTro19](https://github.com/HoniiTro19)/MCM-ICM 2018-2020
 - [Kosthi (Koschei)](https://github.com/Kosthi)/MCM-ICM 2021-2022
 - [Running-Turtle1](https://github.com/Running-Turtle1)/MCM-ICM 2023-2025
-- [laonuo2004](https://github.com/laonuo2004) 增加23年problems与YZ题O奖论文，增加24年O奖论文,增加25年O奖论文
+- [laonuo2004](https://github.com/laonuo2004)/增加23年problems与YZ题O奖论文，增加24年O奖论文,增加25年O奖论文
 
 ## To Do
 
